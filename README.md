@@ -1,4 +1,4 @@
-# xxl-job-admin-postgres
+# xxl-job-admin-postgre
 
 ## 基于xxl-job-admin 2.2.0版本修改的postgre版本
 
